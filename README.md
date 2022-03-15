@@ -1,5 +1,4 @@
 # Sistema de Gerenciamento de Indicadores de Performance
-___
 
 Este projeto teve como objetivo criar uma aplicação desktop que pudesse gerenciar e apresentar informações chave para tomada de decisões em indústrias.
 
